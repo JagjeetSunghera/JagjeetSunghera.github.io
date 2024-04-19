@@ -51,16 +51,18 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "jagjeetsunghera@gmail.com"
+  github: JagjeetSunghera
+  whatsapp: +447355081517
+  linkedin: jagjeet-singh-sunghera-053b67110
+  kaggle: jagjeetsinghsunghera
+  hackerrank: jagjeetsunghera1
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: JagjeetSunghera
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: "@daattali"
-  whatsapp: +447355081517
 #  medium: yourname
 #  reddit: yourname
-  linkedin: jagjeet-singh-sunghera-053b67110
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -77,8 +79,6 @@ social-network-links:
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
- kaggle: jagjeetsinghsunghera
- hackerrank: jagjeetsunghera1
 #  gitlab: yourname
 #  itchio: yourname
 #  untappd: yourname
