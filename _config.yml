@@ -21,8 +21,8 @@ author: Jagjeet Singh Sunghera
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  Project: 
+    - Statistical: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://jagjeetsunghera.github.io/"
 
@@ -100,7 +100,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "JagjeetSunghera.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
