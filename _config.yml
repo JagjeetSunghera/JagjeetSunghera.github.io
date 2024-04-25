@@ -21,7 +21,8 @@ author: Jagjeet Singh Sunghera
 
 navbar-links:
   About Me: "aboutme"
-  Project: 
+  Project:
+    - Information Visualization project: "https://github.com/JagjeetSunghera/InformationVisualization/blob/main/InformationVisualization.md"
     - Statistical: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://jagjeetsunghera.github.io/"
