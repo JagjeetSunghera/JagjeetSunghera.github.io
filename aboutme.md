@@ -1,15 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Small breif to my journey
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+## My Education:
+- MSc. Data Science  &emsp; &emsp; 2022 to 2023  
+   __The University of Glasgow, U.K.__  
+- Bachelor's in Computer Application &emsp; &emsp; 2018 to 2021
+   __Bastar Vishwavidyalya, India__ 
+## Experience:
+ - 06/2023 - 03/2023  
+   Data Scientist/Software Developer
+   GeekSource pvt ltd,
 
 ### My story
 
