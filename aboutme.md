@@ -10,7 +10,9 @@ subtitle: Small breif to my journey
    __The University of Glasgow, U.K.__  
 - **Bachelor's in Computer Application**  
   *2018 to 2021*  
-   __Bastar Vishwavidyalya, India__ 
+   __Bastar Vishwavidyalya, India__
+
+   
 ## Experience:
  - *06/2023 - 03/2023* &emsp; Data Scientist/Software Developer  
    **GeekSource pvt ltd, Glasgow, UK**
