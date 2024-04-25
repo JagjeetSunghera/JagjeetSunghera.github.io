@@ -34,8 +34,8 @@ article {
   background-color: rgba(249,249,249,0.7);
   border-radius: 20px;
   padding-inline: 15px;
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 body {
   font-family: var(--body-font);
