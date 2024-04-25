@@ -5,13 +5,14 @@ subtitle: Small breif to my journey
 ---
 
 ## My Education:
-- MSc. Data Science  &emsp; &emsp; 2022 to 2023  
+- **MSc. Data Science**  
+  *2022 to 2023*  
    __The University of Glasgow, U.K.__  
-- Bachelor's in Computer Application &emsp; &emsp; 2018 to 2021
+- **Bachelor's in Computer Application**  
+  *2018 to 2021*  
    __Bastar Vishwavidyalya, India__ 
 ## Experience:
- - 06/2023 - 03/2023  
-   Data Scientist/Software Developer  
+ - *06/2023 - 03/2023* &emsp; Data Scientist/Software Developer  
    **GeekSource pvt ltd, Glasgow, UK**
 
 ### My story
