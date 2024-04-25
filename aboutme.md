@@ -11,8 +11,8 @@ subtitle: Small breif to my journey
    __Bastar Vishwavidyalya, India__ 
 ## Experience:
  - 06/2023 - 03/2023  
-   Data Scientist/Software Developer
-   GeekSource pvt ltd,
+   Data Scientist/Software Developer  
+   **GeekSource pvt ltd, Glasgow, UK**
 
 ### My story
 
