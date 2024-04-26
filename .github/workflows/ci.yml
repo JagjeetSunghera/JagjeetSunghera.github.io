@@ -9,7 +9,7 @@ jobs:
         with:
            submodules: true
       - name: Update submodules
-      - run: |
+        run: |
           git submodule update --remote --recursive
           git submodule foreach --recursive git checkout master
       - uses: ruby/setup-ruby@v1
