@@ -6,10 +6,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+           persist-credentials: false
+           submodules: true
+          
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
-          submodules: true
       - name: Install dependencies
         run: bundle install && bundle exec appraisal install
       - name: Build site
