@@ -3,3 +3,6 @@
 	url = https://github.com/JagjeetSunghera/InformationVisualization
 	branch = main
 
+[submodule "assets/submodules/InformationVisualization"]
+	path = assets/submodules/InformationVisualization
+	url = https://github.com/JagjeetSunghera/InformationVisualization
