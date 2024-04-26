@@ -1,4 +1,4 @@
-[submodule "_posts/InformationVisualization"]
-	path = _posts/InformationVisualization
+[submodule "assets/subs/InformationVisualization"]
+	path = assets/subs/InformationVisualization
 	url = https://github.com/JagjeetSunghera/InformationVisualization
 
