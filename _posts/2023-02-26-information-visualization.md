@@ -2,4 +2,6 @@
 layout: post
 title: visualization pipeline for walmart 25 store dataset
 ----------------------------
-{! assets/submodules/InformationVisualization/README.md !}
+
+
+{% include_relative assets/submodules/InformationVisualization/README.md %}
