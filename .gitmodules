@@ -1,8 +1,3 @@
-[submodule "assets/subs/InformationVisualization"]
-	path = assets/subs/InformationVisualization
-	url = https://github.com/JagjeetSunghera/InformationVisualization
-	branch = main
-
-[submodule "_posts/submodules/InformationVisualization"]
-	path = _posts/submodules/InformationVisualization
+[submodule "_posts/subm/InformationVisualization"]
+	path = _posts/subm/InformationVisualization
 	url = https://github.com/JagjeetSunghera/InformationVisualization
