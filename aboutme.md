@@ -7,7 +7,9 @@ subtitle: Small breif to my journey
 ## My Education:
 - **MSc. Data Science**  
   *2022 to 2023*  
-   __The University of Glasgow, U.K.__  
+   __The University of Glasgow, U.K.__
+
+  
 - **Bachelor's in Computer Application**  
   *2018 to 2021*  
    __Bastar Vishwavidyalya, India__
