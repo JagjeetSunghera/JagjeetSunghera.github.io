@@ -4,4 +4,4 @@ source "https://rubygems.org"
 
 gemspec
 
-gem 'jekyll-include-markdown'
+gem 'jekyll-relative-links'
