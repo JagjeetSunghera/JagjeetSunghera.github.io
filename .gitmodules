@@ -2,3 +2,8 @@
 	path = _posts/InformationVisualization
 	url = https://github.com/JagjeetSunghera/InformationVisualization.git
 	branch = main
+
+[submodule "_posts/PetClassificationModel"]
+	path = _posts/PetClassificationModel
+	url = https://github.com/JagjeetSunghera/PetClassificationModel.git
+	branch = main
