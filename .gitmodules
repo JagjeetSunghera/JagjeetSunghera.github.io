@@ -1,4 +1,5 @@
 [submodule "assets/subs/InformationVisualization"]
 	path = assets/subs/InformationVisualization
 	url = https://github.com/JagjeetSunghera/InformationVisualization
+	branch = main
 
