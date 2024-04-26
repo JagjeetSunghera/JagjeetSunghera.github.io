@@ -3,4 +3,4 @@ layout: post
 title: visualization pipeline for walmart 25 store dataset
 ----------------------------
 
-{% include ./assets/submodules/InformationVisualization/README.md %}
+{% markdown %}{% include_relative ../assets/submodules %} {% endmarkdown %}
