@@ -1,3 +1,4 @@
 [submodule "_posts/subm/InformationVisualization"]
 	path = _posts/subm/InformationVisualization
 	url = https://github.com/JagjeetSunghera/InformationVisualization
+	branch = main
