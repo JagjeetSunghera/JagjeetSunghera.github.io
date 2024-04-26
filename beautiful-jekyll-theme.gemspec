@@ -3,7 +3,7 @@
 Gem::Specification.new do |spec|
   spec.name          = "beautiful-jekyll-theme"
   spec.version       = "6.0.1"
-  spec.authors       = ["Dean Attali"]
+  spec.authors       = ["Dean Attali","Jagjeet Sunghera"]
   spec.email         = ["daattali@gmail.com"]
 
   spec.summary       = "Beautiful Jekyll is a ready-to-use Jekyll theme to help you create an awesome website quickly. Perfect for personal blogs or simple project websites, with a focus on responsive and clean design."
@@ -23,6 +23,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "kramdown-parser-gfm", "~> 1.1"
   spec.add_runtime_dependency "kramdown", "~> 2.3"
   spec.add_runtime_dependency "webrick", "~> 1.8"
+  spec.add_runtime_dependency "jekyll-relative-links", "~>0.7"
 
   spec.add_development_dependency "bundler", ">= 1.16"
   spec.add_development_dependency "rake", "~> 12.0"
