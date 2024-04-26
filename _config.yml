@@ -22,7 +22,7 @@ author: Jagjeet Singh Sunghera
 navbar-links:
   About Me: "aboutme"
   Project:
-    - Information Visualization project: "InformationVisualization.md"
+    - Information Visualization project: "https://jagjeetsunghera.github.io/InformationVisualization/"
     - Statistical: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://jagjeetsunghera.github.io/"
