@@ -5,11 +5,10 @@ jobs:
     name: Build Jekyll
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@main
+      - uses: actions/checkout@v4
         with:
            persist-credentials: false
            submodules: true
-      - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
