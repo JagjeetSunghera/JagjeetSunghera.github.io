@@ -11,7 +11,7 @@ jobs:
       - name: Update submodules
         run: |
          git submodule update --remote --recursive
-         git submodule foreach --recursive git checkout master
+         git submodule foreach --recursive git checkout main
 
       - name: Commit and push if changes are present
         run: |
