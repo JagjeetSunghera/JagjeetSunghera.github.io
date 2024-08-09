@@ -100,7 +100,7 @@ plt.imshow(x_train[22].astype('uint8'))
 
 
     
-![png](/_posts/constemintern/output_10_1.png)
+![png](https://jagjeetsunghera.github.io/_posts/constemintern/output_10_1.png)
     
 
 
@@ -130,7 +130,7 @@ plt.imshow(x_train[1].astype('uint8'))
 
 
     
-![png](/_posts/constemintern/output_12_1.png)
+![png](https://jagjeetsunghera.github.io/_posts/constemintern/output_12_1.png)
     
 
 
@@ -161,7 +161,7 @@ plt.imshow(x_test[5].astype('uint8'))
 
 
     
-![png](/_posts/constemintern/output_14_1.png)
+![png](https://jagjeetsunghera.github.io/_posts/constemintern/output_14_1.png)
     
 
 
@@ -492,7 +492,7 @@ plt.show()
 
 
     
-![png](/_posts/constemintern/output_25_0.png)
+![png](https://jagjeetsunghera.github.io/_posts/constemintern/output_25_0.png)
     
 
 
@@ -509,7 +509,7 @@ plt.show()
 
 
     
-![png](/_posts/constemintern/output_27_0.png)
+![png](https://jagjeetsunghera.github.io/_posts/constemintern/output_27_0.png)
     
 
 
