@@ -29,13 +29,15 @@ layout: null
 html {
   font-size: 100%
 }
-
+.post-image-short{
+  max-width:20%;
+}
 article {
   background-color: rgba(249,249,249,0.8);
   border-radius: 20px;
   padding-inline: 15px;
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 18px;
   box-shadow: 0px 2px 5px rgba(0,0,0,0.6)
 }
 body {
