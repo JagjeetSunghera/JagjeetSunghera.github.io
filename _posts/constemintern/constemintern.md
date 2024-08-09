@@ -1,7 +1,11 @@
-# **Title:** Introduction to CNN using Keras and Tensorflow.
-## **Objective:** Creating an image classification model in Keras framework to identify classes in a toy dataset.
+# **Title:** 
+Introduction to CNN using Keras and Tensorflow.
 
-### **Difficulty Level:** Easy
+## **Objective:** 
+Creating an image classification model in Keras framework to identify classes in a toy dataset.
+
+### **Difficulty Level:** 
+Easy
 
 
 ## **Introduction:**
@@ -96,7 +100,7 @@ plt.imshow(x_train[22].astype('uint8'))
 
 
     
-![png](output_10_1.png)
+![png](/_posts/constemintern/output_10_1.png)
     
 
 
@@ -126,7 +130,7 @@ plt.imshow(x_train[1].astype('uint8'))
 
 
     
-![png](output_12_1.png)
+![png](/_posts/constemintern/output_12_1.png)
     
 
 
@@ -157,7 +161,7 @@ plt.imshow(x_test[5].astype('uint8'))
 
 
     
-![png](output_14_1.png)
+![png](/_posts/constemintern/output_14_1.png)
     
 
 
@@ -488,7 +492,7 @@ plt.show()
 
 
     
-![png](output_25_0.png)
+![png](/_posts/constemintern/output_25_0.png)
     
 
 
@@ -505,7 +509,7 @@ plt.show()
 
 
     
-![png](output_27_0.png)
+![png](/_posts/constemintern/output_27_0.png)
     
 
 
