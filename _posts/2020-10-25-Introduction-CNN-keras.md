@@ -8,4 +8,4 @@ share-img: /assets/Projects/constemintern/output_27_0.png
 tags: [Tutorial, Sample project]
 author: Jagjeet Singh Sunghera
 ---
-{% /assets/Projects/constemintern.md %}
+{% include /assets/Projects/constemintern.md %}
