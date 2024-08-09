@@ -100,7 +100,7 @@ plt.imshow(x_train[22].astype('uint8'))
 
 
     
-![png](https://jagjeetsunghera.github.io/_posts/constemintern/output_10_1.png)
+![png]({{ '/_posts/constemintern/output_10_1.png' | relative_url }})
     
 
 
@@ -130,7 +130,7 @@ plt.imshow(x_train[1].astype('uint8'))
 
 
     
-![png](https://jagjeetsunghera.github.io/_posts/constemintern/output_12_1.png)
+![png]({{ '/_posts/constemintern/output_12_1.png' | relative_url }})
     
 
 
@@ -161,7 +161,7 @@ plt.imshow(x_test[5].astype('uint8'))
 
 
     
-![png](https://jagjeetsunghera.github.io/_posts/constemintern/output_14_1.png)
+![png]({{ '/_posts/constemintern/output_14_1.png' | relative_url }})
     
 
 
